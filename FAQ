@@ -1,0 +1,86 @@
+# Frequently Asked Questions :Maple: 
+
+## How can I access Premium channels?
+
+If you'd like to access premium channels, follow these steps:
+
+- Link your Discord account with the Maple Dashboard, which you can find [here](https://maple.software/dashboard/settings).
+- After successfully linking your account, navigate to #bots and input the !userinfo command. This action will allow you to gain Premium status and unlock all the channels.
+
+`Note: Please keep in mind that we may occasionally be rate-limited by Discord. As a result, there might be times when you're unable to link your account or attain the Premium role until this limit has been lifted.`
+
+## Where can I check the Maple.Software Status?
+
+You can verify the status of Maple.Software in the following places:
+
+- [The Maple Dashboard Status Page](https://maple.software/dashboard/status)
+- Input the !status command in the #bots channel
+- Check within the loader
+
+## What's the best way to reach out to Maple Syrup and/or Azuki?
+
+To contact Maple Syrup and/or Azuki, you have several options:
+
+- Send them a Direct Message, provided their DMs are open.
+- Create a new ticket in the #support channel for assistance.
+- Email Maple Syrup and/or Azuki directly via the link found [here](https://maple.software/help/contact-us).
+
+## Who founded the Maple project?
+The Maple project was initiated by Maple Syrup and Azuki.
+
+## Who are the Moderators?
+
+Currently the Moderator's are:
+
+- Cheu
+ - Discord Handle: acheuy
+ - Discord ID: 559951444984201238
+
+- Asc
+ - Discord Handle: ascdx
+ - Discord ID: 650958475727339521
+
+- Eggsy
+ - Discord Handle: catkisses
+ - Discord ID: 883031220454326294
+
+- Eren
+ - Discord Handle: c_v
+ - Discord ID: 904881317093732414
+
+## When will Maple Full be released?
+The release date for Maple Full is yet to be announced (TBA). We appreciate your patience as we work on bringing this to you.
+
+## Is Maple hardware-locked?
+
+Yes, Maple does come with a hardware lock, but it's not as stringent as you might assume. Here is what you need to know:
+
+- You're still free to use Maple even if you swap out certain hardware parts on your PC.
+- You're still free to use Maple even if you reinstall your operating system.
+- You're allowed to switch devices once a month, and your Maple account will automatically re-link to the new device.
+- You can request a manual HWID reset once per calendar month.
+
+## Can I get banned?
+
+Like any cheat, Maple could potentially get you banned if detected by osu!'s anti-cheat measures. However, we are very proactive in minimizing this risk.
+
+## What will happen if Maple gets detected?
+
+If Maple gets detected, we'll promptly update the detection status in the loader and make an announcement on our discord server. Rest assured that all users will be duly compensated after we push a fix.
+
+## osu! got an update, can I still use Maple?
+
+Maple is designed to function seamlessly even after most OSU updates. In case it becomes outdated, we will put all efforts into updating it promptly. Users will be compensated for any wait time.
+
+## Can I request a refund?
+
+Absolutely! You're eligible to request a refund. Before proceeding, however, we recommend reading our [Terms of Service](https://maple.software/legal/terms-of-service).
+
+## Additional Links
+
+- [Terms of Service](https://maple.software/legal/terms-of-service)
+- [Privacy Policy](https://maple.software/legal/privacy-policy)
+- [Software Issues](https://maple.software/help/software-issues)
+- [Payment Issues](https://maple.software/help/payment-issues)
+- [FAQ (Web)](https://maple.software/help/faq)
+- [Github Multi-Account Guide](https://github.com/mapleguides/maple-guides/tree/main)

@@ -1,0 +1,56 @@
+# Frequent Issues :Maple:
+
+Welcome to the Support Forms here you'll find a frequent issues list & their solutions! Please be sure to read through it to see if your issue is listed, if not please refer to opening a new ticket and Maple Staff will get to it shortly.
+
+Necessary Dependencies for Maple.Software:
+- Refer to [Software Issues](https://maple.software/help/software-issues) for issues such as
+ - "MSVCP140.dll was not found" & "The DLL "D3DX9_34.DLL" cannot be loaded"
+
+## Maple.Software is Crashing! :KaedeChanAngry: 
+
+The most common result of crashing during injection & gameplay may be due to the following:
+
+- Windows Defender Virus & Threat Protection not being entirely disabled without the use of Defender Control. This means going into the settings listed "Virus & Threat Protection", and disabling all of the settings in that section.
+ - Extra Note: Anti-Virus's like Malwarebytes, BitDefender, and Kaspersky have to be **fully** paused for Maple.Software to work without instabilities.
+
+- Overlays like Discord, Steam, Overwolf, RivaTuner (MSI Afterburner overlay), Xbox Game Bar, Geforce Experience overlay causes issues with Maple.Software and may cause instabilities.
+ - Extra Note: Third-Party applications like [Gosumemory](https://github.com/l3lackShark/gosumemory) may also cause instabilities.
+
+- Game Anti-Cheats such as Vanguard also may cause instabilities with Maple.Software please be sure to disable/exit the programs before injecting Maple.Software.
+
+- An unstable VPN may also cause instabilities with Maple.Software, if Maple.Software detects that the connection has been severred it will automatically close osu. This is a security measure on our part.
+
+- Custom windows installations may also cause instabilities with Maple. (e.g, - GHOST SPECTRE)
+
+- Maple.Software may also be oudated, you may check the current status of Maple at the following:
+ - [Maple Dashboard Status](https://maple.software/dashboard/status)
+ - In #bots with !status command
+ - In the loader
+
+*Refer to [software issues](https://maple.software/help/software-issues) for any issues not answered here or create a new support ticket.*
+
+## Infinite loading and/or slow injection! :KaedeChanConfused: 
+
+The most common result of infinite loading and/or slow injection may be due to the following:
+
+- Your current Network (internet) is slow which causes Maple.Software to inject slower this also goes for a slow CPU.
+ - Extra Note: A VPN may also be the cause if it is unstable and/or slow.
+
+- Your Anti-Virus may be tampering with Maple.Software's injection process, please be sure to disable all Anti-Virus applications.
+ - Extra Note: You may also refer to the "Maple.Software is Crashing! :KaedeChanAngry: " section for a solution regarding this.
+
+## HWID Issue :KaedeChanQuestion: 
+
+- If you're either encountering an HWID issue or requesting an HWID reset you have to open a new ticket and do the following:
+ - Ticket name should be "HWID issue and/or HWID Reset Request" or something similar
+ - Include your Maple UserID (UID) found at [Maple Dashboard](https://maple.software/dashboard/) to make it easier for the developers.
+ - Wait patiently until notified further. :KaedeChanThumbsUp: 
+## Maple.Software Links :KaedeChanHeart:
+- [Terms-of-Service](https://maple.software/legal/terms-of-service)
+- [Software Issues](https://maple.software/help/software-issues)
+- [Payment Issues](https://maple.software/help/payment-issues)
+- [FAQ](https://maple.software/help/faq)
+- [Github Multi-Account Guide](https://github.com/mapleguides/maple-guides/tree/main)
+
+Disclaimer:
+- Please be aware that Maple Staff may not be able to respond instantly to Tickets. We are a team of volunteers who dedicate their spare time to support this community. As such, we do have personal obligations and commitments that might delay our responses.
